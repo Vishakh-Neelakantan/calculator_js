@@ -1,0 +1,14 @@
+/* Add this CSS in a <style> tag in the HTML or in a separate CSS file */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+input, button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 1rem;
+}
+#result {
+    font-weight: bold;
+}
