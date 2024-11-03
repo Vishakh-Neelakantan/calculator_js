@@ -15,9 +15,5 @@ A simple calculator application built with HTML, CSS, and JavaScript. This proje
 - **CSS**: For styling and layout
 - **JavaScript**: For calculator functionality and input validation
 
-## Setup Instructions
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Vishakh-Neelakantan/calculator_js.git
 
